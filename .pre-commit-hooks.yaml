@@ -1,0 +1,9 @@
+- id: embedmd
+  name: Embed external md files
+  description: Runs embedmd to include external md files based on annotations
+  language: script
+  entry: embedmd.sh
+  types: [markdown]
+  pass_filenames: false
+
+
