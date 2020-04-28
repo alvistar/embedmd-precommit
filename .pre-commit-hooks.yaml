@@ -4,6 +4,6 @@
   language: script
   entry: embedmd.sh
   types: [markdown]
-  pass_filenames: false
+  pass_filenames: true
 
 
